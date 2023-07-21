@@ -1,1 +1,1 @@
-select* from product where id=1git 
+select* from product where id=10

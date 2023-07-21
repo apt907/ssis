@@ -1,0 +1,1 @@
+select* from sales where productid=20;
