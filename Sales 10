@@ -1,0 +1,1 @@
+select * from sales 10 where  Id=100
